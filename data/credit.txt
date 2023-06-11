@@ -1,0 +1,16 @@
+Credits 
+Made by student ID 20021113; 
+Featuring vertically scrolling centered
+Arial Font credits of size 35; 
+a hand drawn sprite animation of a 
+person walking which consists of 9 poses 
+created in Paint with layers of 
+backgrounds scrolling at different
+speeds which contain hand drawn elements 
+and graphical primitives created in Paint.
+
+AUDIO USED
+-WALKING IN THE SKY by NICO STAF
+-NOSTALGIA BY BLUE.P
+
+THANK YOU :)
